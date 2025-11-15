@@ -47,6 +47,5 @@ def part_5(turns: int, board: [str]):
             Closest2 = Closest
     platypus = ClosestT[0]
     turns = turns-ClosestT[1]
-
-
+    print("Sahej")
     return final_answer
